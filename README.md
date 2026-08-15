@@ -2,7 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leonardo Pelegrini tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na Faculdade Impacta. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Tenho 19 anos e sou de São Paulo, Brasil 🇧🇷.
+
+🎓 Atualmente curso Ciência da Computação na Faculdade Impacta e sou apaixonado por tecnologia e desenvolvimento de software.
+<br>
+💻 Gosto de aprender novas tecnologias e desenvolver projetos para colocar meus conhecimentos em prática.
+<br>
+🚀 Atualmente, estou desenvolvendo meus conhecimentos em JavaScript, Python, SQL, HTML, CSS, Node.js, React e Git/GitHub.
+<br>
+📚 Sempre buscando aprender, desenvolver projetos e evoluir como desenvolvedor.
 
 <p align="left">
     <a href="https://github.com/leopelegrini-dev?tab=repositories&q=&type=&language=&sort=stargazers">
