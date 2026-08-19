@@ -95,7 +95,7 @@ Tenho 19 anos e sou de São Paulo, Brasil 🇧🇷.
     align="left" 
     height="150"
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=leopelegrini-dev&theme=tokyonight&include_all_commits=true&)](https://github.com/stats-organization/github-stats-extended"
+    src="https://github-stats-extended.vercel.app/api?username=leopelegrini-dev&theme=tokyonight&)](https://github.com/stats-organization/github-stats-extended"
 />
 
 <img 
