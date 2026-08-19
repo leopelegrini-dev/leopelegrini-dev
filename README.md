@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 19 anos e sou de São Paulo, Brasil 🇧🇷.
 
 🎓 Atualmente curso Ciência da Computação na Faculdade Impacta e sou apaixonado por tecnologia e desenvolvimento de software.
 <br>
