@@ -51,7 +51,7 @@ Tenho 19 anos e sou de São Paulo, Brasil 🇧🇷.
 />
 
 <img 
-    align="left" 
+        align="left" 
     alt="JS" 
     title="JavaScript"
     width="30px" 
@@ -95,12 +95,12 @@ Tenho 19 anos e sou de São Paulo, Brasil 🇧🇷.
     align="left" 
     height="150"
     style="padding-right: 10px;" 
-    src="https://vercel.app"
+    src="https://github-stats-extended.vercel.app/api?username=leopelegrini-dev&theme=tokyonight&include_all_commits=true&)](https://github.com/stats-organization/github-stats-extended"
 />
 
 <img 
     align="left" 
     height="150"
     style="padding-right: 10px;" 
-    src="https://vercel.app"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=leopelegrini-dev&theme=tokyonight&layout=compact&langs_count=3"
 />
